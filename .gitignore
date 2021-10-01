@@ -26,3 +26,8 @@ kibana-6.4.3-darwin-x86_64
 logstash-6.4.3
 nacos
 seata
+
+*.iml
+./*.iml
+../*.iml
+
